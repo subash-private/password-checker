@@ -1,6 +1,6 @@
-#Title: Password Strength Analysis Tool
+# Title: Password Strength Analysis Tool
 
-##Objective:
+## Objective:
 To analyze password strength using entropy-based models and demonstrate
 resistance against brute-force and dictionary attacks.
 
