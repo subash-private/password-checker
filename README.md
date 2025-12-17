@@ -4,25 +4,25 @@
 To analyze password strength using entropy-based models and demonstrate
 resistance against brute-force and dictionary attacks.
 
-##Tools:
+## Tools:
 - Kali Linux
 - Python 3
 - zxcvbn library
 
-##Methodology:
+## Methodology:
 User-provided and predefined passwords are analyzed using zxcvbn.
 The tool evaluates patterns, entropy, and estimates crack time.
 
-##Security Concepts:
+## Security Concepts:
 - Authentication security
 - Brute-force attacks
 - Dictionary attacks
 - Human factors in security
 
-##Limitations:
+## Limitations:
 - Estimates only, not real cracking
 - Offline model assumptions
 - No hash algorithm comparison
 
-##Conclusion:
+## Conclusion:
 Strong passwords depend on unpredictability, not visible complexity.
